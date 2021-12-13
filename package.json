@@ -1,0 +1,11 @@
+{
+  "name": "86keggers",
+  "version": "0.1.0",
+  "description": "This is 86 Keggers, a full-site editing WordPress theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arkay",
+  "license": "ISC"
+}
